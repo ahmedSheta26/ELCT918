@@ -1,0 +1,2 @@
+model,dataset,params,test_top1,test_top5,accuracy_drop,final_train_acc,final_val_acc,train_val_gap,avg_epoch_time_s
+vgg16,cifar100,34006948,43.19,70.91,56.81,92.22,42.62,49.6,21.78

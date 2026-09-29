@@ -1,0 +1,2 @@
+model,dataset,params,test_top1,test_top5,accuracy_drop,final_train_acc,final_val_acc,train_val_gap,avg_epoch_time_s
+alexnet,cifar10,29983114,78.82,98.45,21.18,98.72,78.62,20.1,27.34

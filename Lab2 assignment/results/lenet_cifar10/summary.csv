@@ -1,0 +1,2 @@
+model,dataset,params,test_top1,test_top5,accuracy_drop,final_train_acc,final_val_acc,train_val_gap,avg_epoch_time_s
+lenet,cifar10,62006,60.51,95.73,39.49,71.82,59.5,12.32,10.78
