@@ -1,0 +1,15 @@
+{
+  "test_acc": 98.63,
+  "params": 61706,
+  "avg_epoch_time_s": 1.671206776301066,
+  "mean": 0.0777,
+  "std": 0.2438,
+  "seed": 42,
+  "epochs": 15,
+  "batch_size": 128,
+  "lr": 0.01,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "orientation_fix": "each 28x28 image transposed after reshape",
+  "digit_larger_side_median_px": 20.0
+}

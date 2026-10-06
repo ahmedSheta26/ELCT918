@@ -1,0 +1,13 @@
+{
+  "test_acc": 98.97,
+  "params": 61706,
+  "avg_epoch_time_s": 12.586320829391479,
+  "mean": 0.1307,
+  "std": 0.3081,
+  "seed": 42,
+  "epochs": 15,
+  "batch_size": 128,
+  "lr": 0.01,
+  "momentum": 0.9,
+  "weight_decay": 0.0005
+}
